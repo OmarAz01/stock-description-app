@@ -1,4 +1,4 @@
-# stock-description-app
-Simple webpage that retrieves API data and displays it.
+# Stock Description Application
+Simple webpage made using React that retrieves API data and displays it.
 
 [Live Demo](https://omaraz01.github.io/stock-description-app/)
